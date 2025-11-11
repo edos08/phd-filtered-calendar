@@ -5,14 +5,15 @@ on:
     - cron: '0 6 * * *'  # runs every day at 6:00 UTC
   workflow_dispatch:     # allows manual triggering
 
+permissions:
+  contents: write  # Required to push commits
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PAT }}
+        uses: actions/checkout@v4  # Updated to v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,8 +30,8 @@ jobs:
 
       - name: Commit and push updated calendar
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add phd_filtered_calendar.ics
           git diff-index --quiet HEAD || git commit -m "Auto update filtered calendar"
           git push
