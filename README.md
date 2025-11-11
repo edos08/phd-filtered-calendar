@@ -13,6 +13,8 @@ This repository allows you to subscribe to a **filtered version** of the PhD cou
 - Data Visualization  
 - Elements of Deep Learning  
 - Machine Learning for Mobile Communication Systems  
+- Deep Learning for Biomedical Images
+- Automated Planning
 
 Events containing undesired keywords (e.g., “Pillonetto”) are excluded.
 
