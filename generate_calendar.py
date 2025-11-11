@@ -9,14 +9,16 @@ OUTPUT_FILE = "phd_filtered_calendar.ics"
 
 # Keywords to match course titles
 KEYWORDS = [
-    "Generative", "GANs", "diffusion",
-    "Visualization",
-    "Deep", "Learning",
-    "Mobile", "Communication"
+    "Generative", "GANs", "Milani",
+    "Visualization", "Ceccarello",
+    "Deep", "Learning", "Pezze",
+    "Mobile", "Communication", "Dini",
+    "Biomedical", "Images", "Castellaro",
+    "Automated", "Planning", "Orlandini"
 ]
 
 # Words to exclude
-EXCLUDE = ["Pillonetto"]
+EXCLUDE = ["Pillonetto", "Giordani", "Subhrakanti", "Nunzio"]
 
 def fetch_events(query):
     """Fetch all events matching the query from the calendar."""
