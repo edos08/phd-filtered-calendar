@@ -26,9 +26,11 @@ jobs:
         run: python generate_calendar.py
 
       - name: Commit and push updated calendar
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add phd_filtered_calendar.ics
           git diff-index --quiet HEAD || git commit -m "Auto update filtered calendar"
-          git push
+          git push https://x-access-token:${GH_TOKEN}@github.com/edos08/phd-filtered-calendar.git HEAD:main
