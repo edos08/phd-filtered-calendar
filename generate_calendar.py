@@ -55,8 +55,13 @@ print(f"Found {len(filtered_events)} filtered events after excluding {EXCLUDE}."
 def format_dt(dt_str):
     """Convert ISO date/time to iCalendar format (UTC or date)."""
     if "T" in dt_str:
-        return datetime.fromisoformat(dt_str.replace("Z", "+00:00")).strftime("%Y%m%dT%H%M%SZ")
+        # Parse the datetime with timezone info
+        dt = datetime.fromisoformat(dt_str.replace("Z", "+00:00"))
+        # ✅ Convert to UTC before formatting
+        dt_utc = dt.astimezone(timezone.utc)
+        return dt_utc.strftime("%Y%m%dT%H%M%SZ")
     else:
+        # All-day event (date only)
         return dt_str.replace("-", "")
 
 ics_lines = [
