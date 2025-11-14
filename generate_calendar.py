@@ -1,6 +1,6 @@
 import requests
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 # === CONFIGURATION ===
 API_KEY = os.getenv("GOOGLE_CALENDAR_API_KEY")
