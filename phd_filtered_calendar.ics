@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Filtered PhD Courses//EN
 BEGIN:VEVENT
 UID:1p14pkv4fo5hqpeumgjiguqqaj
-SUMMARY:Introduction to Generative AI - Lecture
+SUMMARY:Generative Artificial Intelligence: Foundations and Recent Trends
 DESCRIPTION:
 DTSTART:20251202T093000Z
 DTEND:20251202T113000Z
@@ -11,7 +11,7 @@ LOCATION:Meeting room 201 DEI/A
 END:VEVENT
 BEGIN:VEVENT
 UID:0htgu0vhnscu7o98mo7hg7qssp
-SUMMARY:Introduction to Generative AI - Lecture
+SUMMARY:Generative Artificial Intelligence: Foundations and Recent Trends
 DESCRIPTION:
 DTSTART:20251205T093000Z
 DTEND:20251205T113000Z
@@ -19,7 +19,7 @@ LOCATION:Meeting room 201 DEI/A
 END:VEVENT
 BEGIN:VEVENT
 UID:409ev4tcmsh4rdhu2199ekg596
-SUMMARY:Introduction to Generative AI - Lecture
+SUMMARY:Generative Artificial Intelligence: Foundations and Recent Trends
 DESCRIPTION:
 DTSTART:20251209T093000Z
 DTEND:20251209T113000Z
@@ -27,7 +27,7 @@ LOCATION:Meeting room 201 DEI/A
 END:VEVENT
 BEGIN:VEVENT
 UID:4dk79oo2fr7blsehccf4b04950
-SUMMARY:Introduction to Generative AI - Lecture
+SUMMARY:Generative Artificial Intelligence: Foundations and Recent Trends
 DESCRIPTION:
 DTSTART:20251212T093000Z
 DTEND:20251212T113000Z
@@ -35,7 +35,7 @@ LOCATION:Meeting room 201 DEI/A
 END:VEVENT
 BEGIN:VEVENT
 UID:44vlckcmuc620nmh7oiimfkpg0
-SUMMARY:Introduction to Generative AI - Lecture
+SUMMARY:Generative Artificial Intelligence: Foundations and Recent Trends
 DESCRIPTION:
 DTSTART:20251217T093000Z
 DTEND:20251217T113000Z
@@ -43,7 +43,7 @@ LOCATION:Meeting room 201 DEI/A
 END:VEVENT
 BEGIN:VEVENT
 UID:7hmbftchi6m9nbf53ae46gv62n
-SUMMARY:Introduction to Generative AI - Lecture
+SUMMARY:Generative Artificial Intelligence: Foundations and Recent Trends
 DESCRIPTION:
 DTSTART:20251219T093000Z
 DTEND:20251219T113000Z
@@ -51,7 +51,7 @@ LOCATION:Meeting room 201 DEI/A
 END:VEVENT
 BEGIN:VEVENT
 UID:15ju4qh0k6e147nil10gm0v1im
-SUMMARY:Introduction to Generative AI - Lecture
+SUMMARY:Generative Artificial Intelligence: Foundations and Recent Trends
 DESCRIPTION:
 DTSTART:20251222T093000Z
 DTEND:20251222T113000Z
