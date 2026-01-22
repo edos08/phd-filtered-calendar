@@ -3,6 +3,8 @@ name: Build filtered calendar
 on:
   schedule:
     - cron: '0 6 * * *'  # runs every day at 6:00 UTC
+  push:
+    branches: [ main ]
   workflow_dispatch:     # allows manual triggering
 
 permissions:

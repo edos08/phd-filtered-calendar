@@ -18,7 +18,7 @@ KEYWORDS = [
 ]
 
 # Words to exclude
-EXCLUDE = ["Pillonetto", "Giordani", "Subhrakanti", "Nunzio"]
+EXCLUDE = ["Pillonetto", "Giordani", "Subhrakanti", "Nunzio", "Bayesian"]
 
 def fetch_events(query):
     """Fetch all events matching the query from the calendar."""
