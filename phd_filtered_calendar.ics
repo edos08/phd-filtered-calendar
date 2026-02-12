@@ -233,4 +233,84 @@ DTSTART:20260227T093000Z
 DTEND:20260227T113000Z
 LOCATION:Meeting room 318 DEI/G
 END:VEVENT
+BEGIN:VEVENT
+UID:5au3guonqchrp5sg9gofj5db87_20260604T080000Z
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260604T080000Z
+DTEND:20260604T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1js0hqihale706fc2bika162ll
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260605T080000Z
+DTEND:20260605T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:0evtofdrhhplhv39u35h9l240e
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260608T080000Z
+DTEND:20260608T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:4gr0qgv8vqm7t9nm1dug1h60k8
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260609T080000Z
+DTEND:20260609T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:5au3guonqchrp5sg9gofj5db87_20260611T080000Z
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260611T080000Z
+DTEND:20260611T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:3qif1ipd5clapstda33v445i4h_20260616T080000Z
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260616T080000Z
+DTEND:20260616T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:3qif1ipd5clapstda33v445i4h_20260617T080000Z
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260617T080000Z
+DTEND:20260617T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:5au3guonqchrp5sg9gofj5db87_20260618T080000Z
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260618T080000Z
+DTEND:20260618T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:3qif1ipd5clapstda33v445i4h_20260622T080000Z
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260622T080000Z
+DTEND:20260622T100000Z
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:3qif1ipd5clapstda33v445i4h_20260624T080000Z
+SUMMARY:Distributed Machine Learning and Optimization: from ADMM to Federated and Multiagent Reinforcement Learning (Seminar Series) - S. Dey
+DESCRIPTION:
+DTSTART:20260624T080000Z
+DTEND:20260624T100000Z
+LOCATION:
+END:VEVENT
 END:VCALENDAR
